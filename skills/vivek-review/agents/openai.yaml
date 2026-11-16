@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vivek Review"
+  short_description: "Run an independent review before handoff"
+  default_prompt: "Use $vivek-review to review the completed changes and address findings until the reviewer approves or identifies a blocker."
