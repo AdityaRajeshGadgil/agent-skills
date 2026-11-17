@@ -30,7 +30,7 @@ For consistent installs across machines, check out the same Git commit before co
 
 > Use `vivek-review` to independently review the completed change before handoff.
 
-Vivek Review needs a fresh reviewer with the same model and reasoning effort as the main agent. The reviewer can run through native delegation or in a separate clean agent session that receives the review packet.
+Vivek Review needs a fresh reviewer that uses the model and reasoning effort you choose for reviews, and the main agent's for any setting you do not choose. The reviewer can run through native delegation or in a separate clean agent session that receives the review packet.
 
 ## Optional plugin installs
 
