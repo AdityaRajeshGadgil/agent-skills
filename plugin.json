@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "agent-skills",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Reusable agent skills for development workflows across projects."
 }
